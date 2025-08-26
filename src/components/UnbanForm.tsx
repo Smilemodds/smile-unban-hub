@@ -153,7 +153,7 @@ ${phoneNumber}
                 <Input
                   id="phone"
                   type="tel"
-                  placeholder="+1234567890"
+                  placeholder="+254XXXXXXXX"
                   value={phoneNumber}
                   onChange={(e) => setPhoneNumber(e.target.value)}
                   required
